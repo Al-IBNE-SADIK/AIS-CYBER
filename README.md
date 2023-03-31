@@ -16,16 +16,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝙸+𝙰𝙼+𝙼𝚛.+𝚂𝙰𝙳𝙸𝙺;+𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳;𝚃𝙷𝙰𝙽𝙺+𝚈𝙾𝚄+𝙴𝚅𝙴𝚁𝚈𝙾𝙽𝙴;𝙻𝙾𝚅e+𝚄+𝙰𝙻𝙻+𝙵𝚁𝙸𝙴𝙽𝙳𝚂)](https://git.io/typing-svg)
 
 <h3><b><i>🏆𝙶𝙸𝚃𝙷𝚄𝙱 𝚂𝚃𝙰𝚃𝙸𝚂𝙸𝙲𝙴 :</i></b></h3>
-<a href="https://github.com/𝚖𝚛𝙳𝚘𝙳-𝚘𝚏𝚌𝚢𝚋𝚊𝚛"><img title="SADIK" src="https://github-profile-trophy.vercel.app/?username=𝚖𝚛𝙳𝚘𝙳-𝚘𝚏𝚌𝚢𝚋𝚊𝚛-Cyber&theme=monokai"></a>
+<a href="https://github.com/𝚖𝚛𝙳𝚘𝙳-𝚘𝚏𝚌𝚢𝚋𝚊𝚛"><img title="𝙼𝚁.𝙳𝙾𝙳-𝙾𝙵𝙲𝚈𝙱𝙰𝚁-𝚂𝙰𝙳𝙸𝙺" src="https://github-profile-trophy.vercel.app/?username=𝚖𝚛𝙳𝚘𝙳-𝚘𝚏𝚌𝚢𝚋𝚊𝚛-Cyber&theme=monokai"></a>
 </p>
 <p align="center"> 
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
  <img src="https://profile-counter.glitch.me/𝙼𝚁.𝙳𝙾𝙳-𝙾𝙵𝙲𝚈𝙱𝙰𝚁/count.svg" />
 </p>
 
-![MRDOD-SADIK](https://raw.githubusercontent.com/𝙼𝚁.𝙳𝙾𝙳-𝙾𝙵𝙲𝚈𝙱𝙰𝚁/𝙼𝚁.𝙳𝙾𝙳-𝙾𝙵𝙲𝚈𝙱𝙰𝚁/main/Screenshot_20221104_013930.jpg)
+![𝙼𝚁.𝙳𝙾𝙳-𝙾𝙵𝙲𝚈𝙱𝙰𝚁-𝚂𝙰𝙳𝙸𝙺](https://raw.githubusercontent.com/𝙼𝚁.𝙳𝙾𝙳-𝙾𝙵𝙲𝚈𝙱𝙰𝚁/𝙼𝚁.𝙳𝙾𝙳-𝙾𝙵𝙲𝚈𝙱𝙰𝚁/main/Screenshot_20221104_013930.jpg)
 
-![MRDOD-SADIK](md7Oqrf.gif)
+![𝙼𝚁.𝙳𝙾𝙳-𝙾𝙵𝙲𝚈𝙱𝙰𝚁 𝚂𝙰𝙳𝙸𝙺](md7Oqrf.gif)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
@@ -101,8 +101,8 @@
 </table>
 <br>
 
-<h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph :</i></h2>
+<h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> 𝙳𝙰𝚁𝙺𝙽𝙴𝚃•𝚂𝙰𝙳𝙸𝙺 :</i></h2>
 
-[![Kshitij's github activity graph](https://my-activity-graph-instance.herokuapp.com/graph?username=𝙼𝚁.𝙳𝙾𝙳-𝙾𝙵𝙲𝚈𝙱𝙰𝚁&theme=react-dark&area=true&hide_border=true)](https://github.com/𝙼𝚁.𝙳𝙾𝙳-𝙾𝙵𝙲𝚈𝙱𝙰𝚁/github-readme-activity-graph)
+[![𝙷𝙴𝙻𝙻𝙾 𝚆𝙾𝚁𝙳 𝙸𝙼 𝚂𝙰𝙳𝙸𝙺](https://my-activity-graph-instance.herokuapp.com/graph?username=𝙼𝚁.𝙳𝙾𝙳-𝙾𝙵𝙲𝚈𝙱𝙰𝚁&theme=react-dark&area=true&hide_border=true)](https://github.com/𝙼𝚁.𝙳𝙾𝙳-𝙾𝙵𝙲𝚈𝙱𝙰𝚁/github-readme-activity-graph)
 
 
