@@ -1,4 +1,4 @@
-[![MRDODOF-SADIK-CYBAR](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+[![MRDOD-OF-SADIK-CYBAR](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
@@ -16,16 +16,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝙸+𝙰𝙼+𝙼𝚛.+𝚂𝙰𝙳𝙸𝙺;+𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳;𝚃𝙷𝙰𝙽𝙺+𝚈𝙾𝚄+𝙴𝚅𝙴𝚁𝚈𝙾𝙽𝙴;𝙻𝙾𝚅e+𝚄+𝙰𝙻𝙻+𝙵𝚁𝙸𝙴𝙽𝙳𝚂)](https://git.io/typing-svg)
 
 <h3><b><i>🏆𝙶𝙸𝚃𝙷𝚄𝙱 𝚂𝚃𝙰𝚃𝙸𝚂𝙸𝙲𝙴 :</i></b></h3>
-<a href="https://github.com/𝚖𝚛𝙳𝚘𝙳-𝚘𝚏𝚌𝚢𝚋𝚊𝚛"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=𝚖𝚛𝙳𝚘𝙳-𝚘𝚏𝚌𝚢𝚋𝚊𝚛-Cyber&theme=monokai"></a>
+<a href="https://github.com/𝚖𝚛𝙳𝚘𝙳-𝚘𝚏𝚌𝚢𝚋𝚊𝚛"><img title="SADIK" src="https://github-profile-trophy.vercel.app/?username=𝚖𝚛𝙳𝚘𝙳-𝚘𝚏𝚌𝚢𝚋𝚊𝚛-Cyber&theme=monokai"></a>
 </p>
 <p align="center"> 
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
  <img src="https://profile-counter.glitch.me/𝙼𝚁.𝙳𝙾𝙳-𝙾𝙵𝙲𝚈𝙱𝙰𝚁/count.svg" />
 </p>
 
-![20200808_160757](https://raw.githubusercontent.com/𝙼𝚁.𝙳𝙾𝙳-𝙾𝙵𝙲𝚈𝙱𝙰𝚁/𝙼𝚁.𝙳𝙾𝙳-𝙾𝙵𝙲𝚈𝙱𝙰𝚁/main/Screenshot_20221104_013930.jpg)
+![MRDOD-SADIK](https://raw.githubusercontent.com/𝙼𝚁.𝙳𝙾𝙳-𝙾𝙵𝙲𝚈𝙱𝙰𝚁/𝙼𝚁.𝙳𝙾𝙳-𝙾𝙵𝙲𝚈𝙱𝙰𝚁/main/Screenshot_20221104_013930.jpg)
 
-![20200808_160757](https://raw.githubusercontent.com/𝙼𝚁.𝙳𝙾𝙳-𝙾𝙵𝙲𝚈𝙱𝙰𝚁/𝙼𝚁.𝙳𝙾𝙳-𝙾𝙵𝙲𝚈𝙱𝙰𝚁/main/803a855baf7ab2eafe41a7dea3631ac9.jpg)
+![MRDOD-SADIK](/storage/emulated/0/Download/md7Oqrf.gif)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
