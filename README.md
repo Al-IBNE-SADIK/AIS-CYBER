@@ -69,7 +69,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 :- [𝙼𝚛. 𝙽𝙸𝙺𝙸]()
+- ➪ 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 :- [𝙼𝚛. 𝐌𝐑 𝐒𝐀𝐃𝐈𝐊]()
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
