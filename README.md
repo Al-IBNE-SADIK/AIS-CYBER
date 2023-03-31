@@ -25,7 +25,7 @@
 
 ![MRDOD-SADIK](https://raw.githubusercontent.com/𝙼𝚁.𝙳𝙾𝙳-𝙾𝙵𝙲𝚈𝙱𝙰𝚁/𝙼𝚁.𝙳𝙾𝙳-𝙾𝙵𝙲𝚈𝙱𝙰𝚁/main/Screenshot_20221104_013930.jpg)
 
-![MRDOD-SADIK](/storage/emulated/0/Download/md7Oqrf.gif)
+![MRDOD-SADIK](md7Oqrf.gif)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
