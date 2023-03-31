@@ -16,7 +16,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝙸+𝙰𝙼+𝙼𝚛.+𝚂𝙰𝙳𝙸𝙺;+𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳;𝚃𝙷𝙰𝙽𝙺+𝚈𝙾𝚄+𝙴𝚅𝙴𝚁𝚈𝙾𝙽𝙴;𝙻𝙾𝚅e+𝚄+𝙰𝙻𝙻+𝙵𝚁𝙸𝙴𝙽𝙳𝚂)](https://git.io/typing-svg)
 
 <h3><b><i>🏆𝙶𝙸𝚃𝙷𝚄𝙱 𝚂𝚃𝙰𝚃𝙸𝚂𝙸𝙲𝙴 :</i></b></h3>
-<a href="https://github.com/𝚖𝚛𝙳𝚘𝙳-𝚘𝚏𝚌𝚢𝚋𝚊𝚛"><img title="𝙼𝚁.𝙳𝙾𝙳-𝙾𝙵𝙲𝚈𝙱𝙰𝚁-𝚂𝙰𝙳𝙸𝙺" src="https://github-profile-trophy.vercel.app/?username=𝚖𝚛𝙳𝚘𝙳-𝚘𝚏𝚌𝚢𝚋𝚊𝚛-Cyber&theme=monokai"></a>
+<a href="https://github.com/𝚖𝚛𝙳𝚘𝙳-𝚘𝚏𝚌𝚢𝚋𝚊𝚛"><img title="𝙼𝚁.𝙳𝙾𝙳-𝙾𝙵𝙲𝚈𝙱𝙰𝚁-𝚂𝙰𝙳𝙸𝙺" src="68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d4e696b693430342d4379626572267468656d653d6d6f6e6f6b6169.svg"></a>
 </p>
 <p align="center"> 
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
