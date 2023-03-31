@@ -103,6 +103,6 @@
 
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> 𝙳𝙰𝚁𝙺𝙽𝙴𝚃•𝚂𝙰𝙳𝙸𝙺 :</i></h2>
 
-[![𝙷𝙴𝙻𝙻𝙾 𝚆𝙾𝚁𝙳 𝙸𝙼 𝚂𝙰𝙳𝙸𝙺](https://my-activity-graph-instance.herokuapp.com/graph?username=𝙼𝚁.𝙳𝙾𝙳-𝙾𝙵𝙲𝚈𝙱𝙰𝚁&theme=react-dark&area=true&hide_border=true)](https://github.com/𝙼𝚁.𝙳𝙾𝙳-𝙾𝙵𝙲𝚈𝙱𝙰𝚁/github-readme-activity-graph)
+[![𝙷𝙴𝙻𝙻𝙾 𝚆𝙾𝚁𝙻𝙳 𝙸𝙼 𝚂𝙰𝙳𝙸𝙺](https://my-activity-graph-instance.herokuapp.com/graph?username=𝙼𝚁.𝙳𝙾𝙳-𝙾𝙵𝙲𝚈𝙱𝙰𝚁&theme=react-dark&area=true&hide_border=true)](https://github.com/𝙼𝚁.𝙳𝙾𝙳-𝙾𝙵𝙲𝚈𝙱𝙰𝚁/github-readme-activity-graph)
 
 
